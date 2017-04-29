@@ -1,4 +1,4 @@
-#HW Week 13 - {Express - Friend Finder}
+# HW Week 13 - {Express - Friend Finder}
 Homework week 13 for UCLA Coding BootCamp.
 
 "FriendFinder" is a compatibility-based full-stack site application that will take in entries from user surveys, then compare the answers with those from other users. 
@@ -14,11 +14,11 @@ Using Express to handle routing, users will be able to view the home page, frien
     - POST routes /api/friends to handle incoming survey results. This route will also be used to handle the compatibility logic.
 
 ## Technologies Used
-	 -HTML
-   -Node.js
-	 -Node Package Module Express
-	 -Node Package Module body-parser
-	 -Node Package Module path
+	-HTML
+  -Node.js
+	-Node Package Module Express
+	-Node Package Module body-parser
+	-Node Package Module path
 
 
 ## CODE EXPLANATION - Routes
