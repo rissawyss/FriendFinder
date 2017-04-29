@@ -14,11 +14,11 @@ Using Express to handle routing, users will be able to view the home page, frien
     - POST routes /api/friends to handle incoming survey results. This route will also be used to handle the compatibility logic.
 
 ## Technologies Used
-	-HTML
-  -Node.js
-	-Node Package Module Express
-	-Node Package Module body-parser
-	-Node Package Module path
+-HTML
+-Node.js
+-Node Package Module Express
+-Node Package Module body-parser
+-Node Package Module path
 
 
 ## CODE EXPLANATION - Routes
